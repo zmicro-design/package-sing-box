@@ -13,7 +13,7 @@ help() {
 }
 
 version() {
-  sing-box --version
+  sing-box version
 }
 
 core() {
